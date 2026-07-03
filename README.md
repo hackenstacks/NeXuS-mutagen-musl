@@ -180,3 +180,12 @@ matugen is licensed under **GPL-2.0**. This repository distributes a pre-compile
 ---
 
 *Part of the **NeXuS** ecosystem — Sane • Simple • Secure • Stealthy • Beautiful*
+
+---
+
+## Author
+
+**hackenstacks** — NeXuS founder
+
+- **GitHub:** [@hackenstacks](https://github.com/hackenstacks)
+- **Email:** [hackenstacks@gmail.com](mailto:hackenstacks@gmail.com)
